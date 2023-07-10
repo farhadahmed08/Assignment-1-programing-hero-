@@ -26,5 +26,29 @@
 }
 
 
+.section-o5-description{
+    
+    color: rgba;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.section-o5-header{
+    
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+   
+}
+
+.Instagram-part{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
 
 

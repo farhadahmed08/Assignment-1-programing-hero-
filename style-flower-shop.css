@@ -1,0 +1,30 @@
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex; 
+    justify-content: space-around;
+   padding-top: 200px;
+}
+.section-o1-header{
+    color: #272727;
+    width: 708px;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+.section-o1-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 650px;
+}
+.button-1st{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: white;
+}
+
+
+
+

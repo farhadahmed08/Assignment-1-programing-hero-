@@ -50,5 +50,50 @@
     gap: 10px;
     justify-content: center;
 }
+.subscribe-bg{
+   width: 750px;
+   height: 500px;
+  
+} 
+.footer-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 350px;
+    margin-top: 50px;
+}
+.footer-header{
+    padding-top: 70px;
+    font-size: 48px;
+    font-weight: 800;
+
+    
+}
+.footer-details{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.footer-last-part{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+.section-04{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex; 
+    justify-content: space-around;
+    padding-top: 200px;
+    margin-top: 50px;
+}
+.section-04-btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: white;
+}
 
 

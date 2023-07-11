@@ -26,23 +26,59 @@
 }
 
 
-.section-o5-description{
-    
-    color: rgba;
+.section-02-header{
+    color: #272727;
     text-align: center;
     font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 100px;
+   
+}
+.section-02-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
 }
-
-.section-o5-header{
+.rectangel-01{
+    height: 550px;
+    width: 500px;
+    background-color:rgba(167, 33, 98, 0.15);
+   border-radius: 300px 300px 0px 0px;
+   margin: 20px;
+  
     
-    color: #272727;
-    text-align: center;
-    font-size: 40px;
-    font-weight: 800;
-   
+}
+.rectangel-02{
+    height: 550px;
+    width: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    margin: 20px;
+  
+}
+.rectangel-03{
+    height: 550px;
+    width: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin: 20px;
+  
+}
+.section-02-container{
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
+.box-pic-description{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    gap: 500px;
+    
+
 }
 
 .Instagram-part{
@@ -94,6 +130,47 @@
     background: #E55473;
     padding: 20px 43px;
     color: white;
+}
+
+
+.section-o5-description{
+    
+    color: rgba;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.section-o5-header{
+    
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+   
+}
+
+
+.section-06-background{
+    background-image: url('Flower\ Asset/Rectangle 9.png');
+    background-repeat:no-repeat ;
+    margin-right: 100px;
+    width: 55%;
+    margin: auto;
+    height: 300px;
+    text-align: center;
+    
+   
+}
+.inside-bg-header{
+    padding-top: 100px;
+}
+.inside-bg-input{
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
 }
 
 
